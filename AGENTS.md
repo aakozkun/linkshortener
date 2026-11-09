@@ -4,11 +4,7 @@ This repository is a Next.js 16 App Router application using React 19, strict Ty
 
 ## Read the applicable guidance
 
-**CRITICAL: ALWAYS read the relevant individual instruction files in `/docs` BEFORE generating ANY code. This is mandatory for every coding task, with no exceptions. Do not rely only on this summary, prior context, or assumptions; open and read the actual applicable document(s) first. If more than one document applies, read each one before writing code.**
 
-For authentication, Clerk, or protected-route work, follow [docs/authentication.md](docs/authentication.md). Keep guidance consistent with the code when architecture or capabilities change.
-
-For UI work, follow [docs/ui-components.md](docs/ui-components.md) and use shadcn/ui components rather than creating custom components.
 
 ## Always follow
 

@@ -1,3 +1,7 @@
+---
+description: Read this before implementing any authentication-related functionality.
+---
+
 # Authentication instructions
 
 - Use Clerk for all authentication and identity flows. Do not introduce or use another authentication method or provider.

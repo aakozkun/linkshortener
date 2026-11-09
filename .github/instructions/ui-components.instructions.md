@@ -1,3 +1,7 @@
+---
+description: Read this before implementing any UI components.
+---
+
 # UI component instructions
 
 - Use shadcn/ui components for user-facing UI. Prefer the existing components in `components/ui` and compose them directly in pages and features.
